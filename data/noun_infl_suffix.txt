@@ -1,0 +1,21 @@
+nominal suffixes
+-i, -ı, -ü, -u, -yi, -yı, -yü, -yu
+-e, -a, -ye, -ya
+-te, -ta, -de, -da
+-ten, -tan, -den, -dan
+-in, -ın, -ün, -un, -nin, -nın, -nün, -nun
+-le, -la, -yle, -yla
+-im, -ım, -üm, -um, -m
+-imiz, -ımız, -ümüz, -umuz, -miz, -mız, -müz, -muz
+-ler, -lar, -lerim, -larım, -lerimiz, -larımız, -lerin, -ların, -leriniz, -larınız, -leri, -ları
+-in, -ın, -ün, -un, -n
+-iniz, -ınız, -ünüz, -unuz, -niz, -nız, -nüz, -nuz
+-i, -ı, -ü, -u, -si, -sı, -sü, -su
+-ndan, -ntan, -nden, -nten
+-nta, -nte, -nda, -nde
+-na, -ne
+-mı, -mi, -mu, mü
+-ki
+-ca, -ce
+
+
